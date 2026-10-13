@@ -242,7 +242,7 @@ Dataset CROP diorganisasikan ke dalam 3 komponen utama:
 
 ### 3.3 Simulasi & Analisis Manual Code Review Kasus Sampel CROP
 
-Berikut adalah analisis *Code Review* manual pada salah satu sampel dataset CROP dari proyek **Couchbase / `testrunner**` (Proyek pengujian otomatis berbasis Python):
+Berikut adalah analisis *Code Review* manual pada salah satu sampel dataset CROP dari proyek `Couchbase` / `testrunner` (Proyek pengujian otomatis berbasis Python):
 
 #### A. Metadata Review (Diambil dari `metadata/testrunner.csv`)
 
